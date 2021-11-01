@@ -1,0 +1,5 @@
+name: CoinSystemAPI
+main: de.kyleonaut.coinsystem.CoinSystemPlugin
+version: 1.0.0
+author: kyleonaut
+api-version: 1.13
